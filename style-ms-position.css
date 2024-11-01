@@ -1,0 +1,51 @@
+*{
+    margin: 0;  padding: 0;
+}
+
+.surface-laptop{
+    margin: 50px 70px;
+    background: url("Highlight-Surface-Laptop-AI-7Ed-Sapphire-MC001-3000x1682_VP5-1596x600.avif");
+    background-size: cover;
+    min-height: 500px;
+    position: relative;
+}
+
+.surface-laptop span{
+    padding: 4px 16px;
+    font-weight: 600;
+    background-color: rgb(255, 197, 5);
+    position: absolute;
+    top: 110px;
+    left: 110px;
+}
+
+.surface-laptop h1{
+    position: absolute;
+    top: 150px;
+    left: 110px;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.surface-laptop p{
+    position: absolute;
+    top: 225px;
+    left: 110px;
+    font-size: 18px;
+    width: 33%;
+    line-height: 1.5;
+}
+
+.surface-laptop button{
+    position: absolute;
+    top: 300px;
+    left: 110px;
+    font-size: 17px;
+    padding: 10px 20px;
+    background-color: rgb(42, 104, 228);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+
